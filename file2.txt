@@ -3,3 +3,4 @@ File 2 in stage
 New Amend
 
 For Merge conflict in br1
+For Merge conflict in main
