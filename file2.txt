@@ -2,4 +2,4 @@ File 2 in stage
 
 New Amend
 
-For Merge
+For Merge conflict in br1
